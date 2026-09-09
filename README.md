@@ -5,3 +5,6 @@ My name is Mohammad AlSomali a sophomore student at Imam Abdulrahman bin Faisal 
 I'm primarily interested in designing and implementing secure, reliable, and efficient systems, with a focus on maintaining high standards of security throughout the development process.
 
 My goal is to build systems that prioritize reliability, security, efficiency, and effectiveness.
+
+## Connect With Me 🤝
+Linkedin: www.linkedin.com/in/mohzyd
